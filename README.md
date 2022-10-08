@@ -13,7 +13,9 @@ The goal of this project is to create a menu-driven text-based application that 
   4. print a table of student IDs and corresponding average (mean) mark.
 
 ## File Layout ##
+* Extract JavaAssign1_Khilan_Kamlesh_2307483.zip and open folder as project in IntelliJ IDEA Community Edition
 * Code design and implementation in src/StudentMarking.java
 * testFiles folder includes .txt files to test the functionality and edge case scenarios in IntelliJ after completing a section of code.
 * The results of tests are compared against expectedOutput files in the answerFiles folder using IntelliJ's Run/Debug configurations.
+* Output of code is copied to file StudentOutput.txt 
 
