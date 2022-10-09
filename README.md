@@ -12,7 +12,7 @@ The goal of this project is to create a menu-driven text-based application that 
   3. draw a simple bar chart of a student’s highest and lowest marks
   4. print a table of student IDs and corresponding average (mean) mark.
 
-## File Layout ##
+## Project Layout ##
 * Extract JavaAssign1_Khilan_Kamlesh_2307483.zip and open folder as project in IntelliJ IDEA Community Edition
 * Code design and implementation in Assignment211/src/StudentMarking.java
 * Assignment211/testFiles folder includes .txt files to test the functionality and edge case scenarios in IntelliJ after completing a section of code.
